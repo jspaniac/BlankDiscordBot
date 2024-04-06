@@ -1,0 +1,10 @@
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:root:Bot shutting down!
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Closing the event loop.
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:logging in using static token
+INFO:root:Bot shutting down!
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Closing the event loop.
