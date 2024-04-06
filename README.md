@@ -1,6 +1,8 @@
 # BlankDiscordBot
 This script library allows you to create your own discord bot (hopefully) easily!
 
+**Warning:** If youre planning on using version control with this project, make sure you DO NOT commit your discord API token found within `store/auth.json`
+
 ## Setup
 There is a non-trivial amount of setup required to start executing this discord bot on your local machine, which has been segmented into the 3 primary parts below.
 ### Python
